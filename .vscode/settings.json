@@ -1,3 +1,9 @@
 {
+<<<<<<< HEAD
    "files.autoSave": "off"
+=======
+   "files.autoSave": "off",
+   "chat.sendElementsToChat.enabled": false,
+   "workbench.startupEditor": "none"
+>>>>>>> 4618cc0 (Experiment 2.1 - Lambda Expressions and Stream Operations)
 }

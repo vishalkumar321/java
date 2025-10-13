@@ -6,6 +6,7 @@
   "configurations": [
     {
       "type": "java",
+<<<<<<< HEAD
       "name": "PartC",
       "request": "launch",
       "mainClass": "PartC",
@@ -20,6 +21,8 @@
     },
     {
       "type": "java",
+=======
+>>>>>>> 4618cc0 (Experiment 2.1 - Lambda Expressions and Stream Operations)
       "name": "Main",
       "request": "launch",
       "mainClass": "Main",
